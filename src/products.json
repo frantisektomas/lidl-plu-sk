@@ -417,6 +417,1056 @@
       "name": "hrusky nashi",
       "type": "ks",
       "code": "587"
+    },
+
+    {
+      "id": 61,
+      "name": "hrusky oksana",
+      "type": "kg",
+      "code": "518"
+    },
+
+    {
+      "id": 62,
+      "name": "hrusky oksana",
+      "type": "kg",
+      "code": "518"
+    },
+
+    {
+      "id": 63,
+      "name": "hrusky lucasova",
+      "type": "kg",
+      "code": "576"
+    },
+
+    {
+      "id": 64,
+      "name": "hrusky volne",
+      "type": "kg",
+      "code": "301"
+    },
+
+    {
+      "id": 65,
+      "name": "hrusky williams",
+      "type": "kg",
+      "code": "409"
+    },
+
+    {
+      "id": 66,
+      "name": "cherimoya",
+      "type": "ks",
+      "code": "515"
+    },
+
+    {
+      "id": 67,
+      "name": "chren",
+      "type": "kg",
+      "code": "153"
+    },
+
+    {
+      "id": 68,
+      "name": "jablka cervene volne",
+      "type": "kg",
+      "code": "843"
+    },
+
+    {
+      "id": 69,
+      "name": "jablka cervene volne ambrosia",
+      "type": "kg",
+      "code": "343"
+    },
+
+    {
+      "id": 70,
+      "name": "jablka cervene volne braeburn",
+      "type": "kg",
+      "code": "864"
+    },
+
+    {
+      "id": 71,
+      "name": "jablka cervene volne crimson snow",
+      "type": "kg",
+      "code": "4196"
+    },
+
+    {
+      "id": 72,
+      "name": "jablka cervene volne enjoy",
+      "type": "kg",
+      "code": "668"
+    },
+
+    {
+      "id": 73,
+      "name": "jablka epli",
+      "type": "kg",
+      "code": "604"
+    },
+
+    {
+      "id": 74,
+      "name": "jablka cervene volne evelina",
+      "type": "kg",
+      "code": "746"
+    },
+
+    {
+      "id": 75,
+      "name": "jablka cervene volne gala",
+      "type": "kg",
+      "code": "25"
+    },
+
+    {
+      "id": 76,
+      "name": "jablka cervene volne idared",
+      "type": "kg",
+      "code": "4140"
+    },
+
+    {
+      "id": 77,
+      "name": "jablka cervene volne jonagold",
+      "type": "kg",
+      "code": "848"
+    },
+
+    {
+      "id": 78,
+      "name": "jablka cervene volne jonaprince",
+      "type": "kg",
+      "code": "870"
+    },
+
+    {
+      "id": 79,
+      "name": "jablka cervene fuji",
+      "type": "kg",
+      "code": "129"
+    },
+
+    {
+      "id": 80,
+      "name": "jablka cervene volne modi",
+      "type": "kg",
+      "code": "817"
+    },
+
+    {
+      "id": 81,
+      "name": "jablka cervene volne pinova",
+      "type": "kg",
+      "code": "114"
+    },
+
+    {
+      "id": 82,
+      "name": "jablka cervene volne piros",
+      "type": "kg",
+      "code": "873"
+    },
+
+    {
+      "id": 83,
+      "name": "jablka cervene volne red delicious",
+      "type": "kg",
+      "code": "401"
+    },
+
+    {
+      "id": 84,
+      "name": "jablka cervene volne royal gala",
+      "type": "kg",
+      "code": "417"
+    },
+
+    {
+      "id": 85,
+      "name": "jablka cervene volne rubin",
+      "type": "kg",
+      "code": "340"
+    },
+
+    {
+      "id": 86,
+      "name": "jablka ruzove pink lady",
+      "type": "kg",
+      "code": "4130"
+    },
+
+    {
+      "id": 87,
+      "name": "jablka cervene volne tessa",
+      "type": "kg",
+      "code": "351"
+    },
+
+    {
+      "id": 88,
+      "name": "jablka cervene volne tessa",
+      "type": "kg",
+      "code": "351"
+    },
+
+    {
+      "id": 89,
+      "name": "jablka zelene volne early gold",
+      "type": "kg",
+      "code": "411"
+    },
+
+    {
+      "id": 90,
+      "name": "jablka zelene volne granny smith",
+      "type": "kg",
+      "code": "868"
+    },
+
+    {
+      "id": 91,
+      "name": "jablka zelene volne reneta",
+      "type": "kg",
+      "code": "145"
+    },
+
+    {
+      "id": 92,
+      "name": "jablka zelene volne renoir",
+      "type": "kg",
+      "code": "845"
+    },
+
+    {
+      "id": 93,
+      "name": "jablka zelene smeralda",
+      "type": "kg",
+      "code": "692"
+    },
+
+    {
+      "id": 94,
+      "name": "jablka zelene volne",
+      "type": "kg",
+      "code": "51"
+    },
+
+    {
+      "id": 95,
+      "name": "johody volne",
+      "type": "kg",
+      "code": "364"
+    },
+
+    {
+      "id": 96,
+      "name": "johody volne kosik",
+      "type": "kg",
+      "code": "639"
+    },
+
+    {
+      "id": 97,
+      "name": "kaki",
+      "type": "ks",
+      "code": "75"
+    },
+
+    {
+      "id": 98,
+      "name": "kalerab",
+      "type": "ks",
+      "code": "77"
+    },
+
+    {
+      "id": 99,
+      "name": "kalerab fialovy",
+      "type": "ks",
+      "code": "120"
+    },
+
+    {
+      "id": 99,
+      "name": "kalerab fialovy",
+      "type": "ks",
+      "code": "120"
+    },
+
+    {
+      "id": 100,
+      "name": "kapusta biela neskora",
+      "type": "kg",
+      "code": "90"
+    },
+
+    {
+      "id": 101,
+      "name": "kapusta biela skora",
+      "type": "kg",
+      "code": "91"
+    },
+
+    {
+      "id": 102,
+      "name": "kapusta cervena",
+      "type": "kg",
+      "code": "88"
+    },
+
+    {
+      "id": 102,
+      "name": "kapusta cervena",
+      "type": "kg",
+      "code": "88"
+    },
+
+    {
+      "id": 103,
+      "name": "kapusta cinska / pak choi",
+      "type": "kg",
+      "code": "377"
+    },
+
+    {
+      "id": 104,
+      "name": "kapusta pekingska",
+      "type": "kg",
+      "code": "82"
+    },
+
+    {
+      "id": 105,
+      "name": "karambola",
+      "type": "ks",
+      "code": "376"
+    },
+
+    {
+      "id": 106,
+      "name": "karfiol",
+      "type": "ks",
+      "code": "89"
+    },
+
+    {
+      "id": 106,
+      "name": "kel",
+      "type": "kg",
+      "code": "166"
+    },
+
+    {
+      "id": 107,
+      "name": "kesu prazene solene volne",
+      "type": "kg",
+      "code": "581"
+    },
+
+    {
+      "id": 108,
+      "name": "kiwano",
+      "type": "ks",
+      "code": "546"
+    },
+
+    {
+      "id": 109,
+      "name": "kiwi",
+      "type": "ks",
+      "code": "45"
+    },
+
+    {
+      "id": 110,
+      "name": "kiwi BIO",
+      "type": "ks",
+      "code": "542"
+    },
+
+    {
+      "id": 111,
+      "name": "kiwi BIO zlte",
+      "type": "ks",
+      "code": "541"
+    },
+
+    {
+      "id": 112,
+      "name": "kiwi zlte",
+      "type": "kg",
+      "code": "464"
+    },
+
+    {
+      "id": 113,
+      "name": "kokosovy orech",
+      "type": "ks",
+      "code": "325"
+    },
+
+    {
+      "id": 114,
+      "name": "kukurica",
+      "type": "ks",
+      "code": "71"
+    },
+
+    {
+      "id": 115,
+      "name": "limetky",
+      "type": "ks",
+      "code": "81"
+    },
+
+    {
+      "id": 116,
+      "name": "litchi",
+      "type": "kg",
+      "code": "178"
+    },
+
+    {
+      "id": 117,
+      "name": "machovka perunska",
+      "type": "100gr. kosik",
+      "code": "332"
+    },
+
+    {
+      "id": 118,
+      "name": "maliny",
+      "type": "kg",
+      "code": "670"
+    },
+
+    {
+      "id": 119,
+      "name": "mandarinky volne",
+      "type": "kg",
+      "code": "97"
+    },
+
+    {
+      "id": 120,
+      "name": "mandle prazene solene volne",
+      "type": "kg",
+      "code": "373"
+    },
+
+    {
+      "id": 121,
+      "name": "mango BIO",
+      "type": "ks",
+      "code": "543"
+    },
+
+    {
+      "id": 122,
+      "name": "mango",
+      "type": "ks",
+      "code": "46"
+    },
+
+    {
+      "id": 123,
+      "name": "marakuja",
+      "type": "ks",
+      "code": "593"
+    },
+
+    {
+      "id": 124,
+      "name": "marhule volne",
+      "type": "kg",
+      "code": "68"
+    },
+
+    {
+      "id": 125,
+      "name": "marhule BIO",
+      "type": "kg",
+      "code": "582"
+    },
+
+    {
+      "id": 126,
+      "name": "melon biely",
+      "type": "kg",
+      "code": "438"
+    },
+
+    {
+      "id": 127,
+      "name": "melon cantaloupe (zima)",
+      "type": "ks",
+      "code": "813"
+    },
+
+    {
+      "id": 128,
+      "name": "melon cantaloupe (leto)",
+      "type": "ks",
+      "code": "122"
+    },
+
+    {
+      "id": 129,
+      "name": "melon galia",
+      "type": "kg",
+      "code": "78"
+    },
+
+    {
+      "id": 130,
+      "name": "BIO melon galia",
+      "type": "kg",
+      "code": "660"
+    },
+
+    {
+      "id": 131,
+      "name": "melon piel de sapo",
+      "type": "ks",
+      "code": "123"
+    },
+
+    {
+      "id": 132,
+      "name": "melon piel de sapo",
+      "type": "kg",
+      "code": "816"
+    },
+
+    {
+      "id": 133,
+      "name": "melon zlty",
+      "type": "ks",
+      "code": "115"
+    },
+
+    {
+      "id": 134,
+      "name": "melon zlty",
+      "type": "kg",
+      "code": "815"
+    },
+
+    {
+      "id": 135,
+      "name": "melon zlty dino",
+      "type": "ks",
+      "code": "591"
+    },
+
+    {
+      "id": 136,
+      "name": "melon zlty jimbee",
+      "type": "ks",
+      "code": "577"
+    },
+
+    {
+      "id": 137,
+      "name": "mrkva fialova",
+      "type": "kg",
+      "code": "694"
+    },
+
+    {
+      "id": 138,
+      "name": "mrkva s vnatou",
+      "type": "ks",
+      "code": "94"
+    },
+
+    {
+      "id": 139,
+      "name": "mrkva volna",
+      "type": "kg",
+      "code": "224"
+    },
+
+    {
+      "id": 140,
+      "name": "nektarinky volne",
+      "type": "kg",
+      "code": "69"
+    },
+
+    {
+      "id": 141,
+      "name": "nektarinky volne(karton)",
+      "type": "kg",
+      "code": "672"
+    },
+
+    {
+      "id": 142,
+      "name": "papaja",
+      "type": "ks",
+      "code": "324"
+    },
+
+    {
+      "id": 143,
+      "name": "paprika biela volna",
+      "type": "kg",
+      "code": "83"
+    },
+
+    {
+      "id": 144,
+      "name": "paprika cervena spicata volna",
+      "type": "kg",
+      "code": "127"
+    },
+
+    {
+      "id": 145,
+      "name": "paprika cervena volna",
+      "type": "kg",
+      "code": "73"
+    },
+
+    {
+      "id": 146,
+      "name": "paprika oranzova volna",
+      "type": "kg",
+      "code": "394"
+    },
+
+    {
+      "id": 147,
+      "name": "paprika zelena volna",
+      "type": "kg",
+      "code": "136"
+    },
+
+    {
+      "id": 148,
+      "name": "paprika zlta volna",
+      "type": "kg",
+      "code": "114"
+    },
+
+    {
+      "id": 149,
+      "name": "paradajky krickove volne",
+      "type": "kg",
+      "code": "86"
+    },
+
+    {
+      "id": 150,
+      "name": "paradajky krickove volne",
+      "type": "kg",
+      "code": "86"
+    },
+
+    {
+      "id": 151,
+      "name": "paradajky masite",
+      "type": "kg",
+      "code": "451"
+    },
+
+    {
+      "id": 152,
+      "name": "paradajky zelene pasikave",
+      "type": "kg",
+      "code": "601"
+    },
+
+    {
+      "id": 153,
+      "name": "paradajky strapcove zlte",
+      "type": "kg",
+      "code": "691"
+    },
+
+    {
+      "id": 154,
+      "name": "parizon",
+      "type": "kg",
+      "code": "750"
+    },
+
+    {
+      "id": 155,
+      "name": "petrzlen s vnatou",
+      "type": "zvazok",
+      "code": "98"
+    },
+
+    {
+      "id": 156,
+      "name": "pistacie prazene solene volne",
+      "type": "kg",
+      "code": "371"
+    },
+
+    {
+      "id": 157,
+      "name": "pitahaya",
+      "type": "ks",
+      "code": "375"
+    },
+
+    {
+      "id": 158,
+      "name": "pomarancene BIO",
+      "type": "kg",
+      "code": "552"
+    },
+
+    {
+      "id": 159,
+      "name": "pomarance premium",
+      "type": "kg",
+      "code": "70"
+    },
+
+    {
+      "id": 160,
+      "name": "pomarance volne",
+      "type": "kg",
+      "code": "40"
+    },
+
+    {
+      "id": 161,
+      "name": "pomelo",
+      "type": "ks",
+      "code": "112"
+    },
+
+    {
+      "id": 162,
+      "name": "pomelo cervene",
+      "type": "ks",
+      "code": "686"
+    },
+
+    {
+      "id": 163,
+      "name": "por",
+      "type": "ks",
+      "code": "256"
+    },
+
+    {
+      "id": 164,
+      "name": "rebarbora",
+      "type": "kg",
+      "code": "225"
+    },
+
+    {
+      "id": 165,
+      "name": "rebarbora",
+      "type": "kg",
+      "code": "225"
+    },
+
+    {
+      "id": 166,
+      "name": "redkev biela gulata",
+      "type": "zvazok",
+      "code": "93"
+    },
+
+    {
+      "id": 167,
+      "name": "redkovka",
+      "type": "zvazok",
+      "code": "76"
+    },
+
+    {
+      "id": 168,
+      "name": "redkovka biela",
+      "type": "ks",
+      "code": "147"
+    },
+
+    {
+      "id": 169,
+      "name": "repa cervena volna",
+      "type": "kg",
+      "code": "600"
+    },
+
+    {
+      "id": 170,
+      "name": "ribezle cervene",
+      "type": "kg",
+      "code": "846"
+    },
+
+    {
+      "id": 171,
+      "name": "ringloty tmave volne",
+      "type": "kg",
+      "code": "782"
+    },
+
+    {
+      "id": 172,
+      "name": "ringloty tmave volne BIO",
+      "type": "kg",
+      "code": "782"
+    },
+
+    {
+      "id": 173,
+      "name": "ringloty zlne volne",
+      "type": "kg",
+      "code": "457"
+    },
+
+    {
+      "id": 174,
+      "name": "romanesco",
+      "type": "ks",
+      "code": "602"
+    },
+
+    {
+      "id": 175,
+      "name": "slivky volne",
+      "type": "kg",
+      "code": "79"
+    },
+
+    {
+      "id": 176,
+      "name": "salat hlavkovy",
+      "type": "ks",
+      "code": "85"
+    },
+
+    {
+      "id": 177,
+      "name": "salat kuceravy",
+      "type": "ks",
+      "code": "391"
+    },
+
+    {
+      "id": 178,
+      "name": "salat lallo mix",
+      "type": "ks",
+      "code": "752"
+    },
+
+    {
+      "id": 179,
+      "name": "salat radicio",
+      "type": "ks",
+      "code": "139"
+    },
+
+    {
+      "id": 180,
+      "name": "salat rukola",
+      "type": "ks",
+      "code": "143"
+    },
+
+    {
+      "id": 181,
+      "name": "tekvica hokaido",
+      "type": "kg",
+      "code": "66"
+    },
+
+    {
+      "id": 182,
+      "name": "tekvica hokaido BIO",
+      "type": "kg",
+      "code": "66"
+    },
+
+    {
+      "id": 183,
+      "name": "tekvica maslova",
+      "type": "kg",
+      "code": "679"
+    },
+
+    {
+      "id": 184,
+      "name": "tekvica mini muskatova",
+      "type": "kg",
+      "code": "62"
+    },
+
+    {
+      "id": 185,
+      "name": "tekvica na pecenie",
+      "type": "kg",
+      "code": "301"
+    },
+
+    {
+      "id": 186,
+      "name": "tekvica na varenie",
+      "type": "kg",
+      "code": "408"
+    },
+
+    {
+      "id": 187,
+      "name": "tekvica na vyrezavanie",
+      "type": "kg",
+      "code": "315"
+    },
+
+    {
+      "id": 188,
+      "name": "tekvica na vyrezavanie",
+      "type": "kg",
+      "code": "844"
+    },
+
+    {
+      "id": 189,
+      "name": "tekvica spagetova",
+      "type": "kg",
+      "code": "580"
+    },
+
+    {
+      "id": 190,
+      "name": "tekvicky ozdobne",
+      "type": "kg",
+      "code": "316"
+    },
+
+    {
+      "id": 191,
+      "name": "toponambur",
+      "type": "kg",
+      "code": "516"
+    },
+
+    {
+      "id": 192,
+      "name": "uhorky nakladacky",
+      "type": "kg",
+      "code": "124"
+    },
+
+    {
+      "id": 193,
+      "name": "uhorky polne",
+      "type": "kg",
+      "code": "101"
+    },
+
+    {
+      "id": 194,
+      "name": "uhorky polohadovky",
+      "type": "ks",
+      "code": "558"
+    },
+
+    {
+      "id": 195,
+      "name": "uhorky salatove",
+      "type": "ks",
+      "code": "100"
+    },
+
+    {
+      "id": 196,
+      "name": "uhorky salatove domace",
+      "type": "ks",
+      "code": "180"
+    },
+
+    {
+      "id": 197,
+      "name": "uhorky salatove domace",
+      "type": "ks",
+      "code": "180"
+    },
+
+    {
+      "id": 198,
+      "name": "zazvor",
+      "type": "kg",
+      "code": "751"
+    },
+
+    {
+      "id": 199,
+      "name": "zeler bez vnate",
+      "type": "kg",
+      "code": "74"
+    },
+
+    {
+      "id": 200,
+      "name": "zeler s vnatou",
+      "type": "kg",
+      "code": "175"
+    },
+
+    {
+      "id": 201,
+      "name": "zemiaky 5kg",
+      "type": "kg",
+      "code": "168"
+    },
+
+    {
+      "id": 202,
+      "name": "zemiaky 2.5kg A",
+      "type": "kg",
+      "code": "170"
+    },
+
+    {
+      "id": 203,
+      "name": "zemiaky 2.5kg B",
+      "type": "kg",
+      "code": "118"
+    },
+
+    {
+      "id": 204,
+      "name": "zemiaky ruzove skore konzumne",
+      "type": "kg",
+      "code": "819"
+    },
+
+    {
+      "id": 205,
+      "name": "zemiaky sladke bataty",
+      "type": "kg",
+      "code": "80"
+    },
+
+    {
+      "id": 206,
+      "name": "zemiaky volne",
+      "type": "kg",
+      "code": "146"
+    },
+
+    {
+      "id": 207,
+      "name": "zemiaky volne skore",
+      "type": "kg",
+      "code": "390"
     }
     
 ]
