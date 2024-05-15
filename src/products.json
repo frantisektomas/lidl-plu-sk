@@ -1,0 +1,422 @@
+[
+    {
+      "id": 1,
+      "name": "ananas",
+      "type": "ks",
+      "code": "41"
+    },
+
+    {
+      "id": 2,
+      "name": "arasidy volne",
+      "type": "kg",
+      "code": "283"
+    },
+
+    {
+      "id": 3,
+      "name": "avokado",
+      "type": "ks",
+      "code": "87"
+    },
+
+    {
+      "id": 4,
+      "name": "avokado BIO",
+      "type": "ks",
+      "code": "545"
+    },
+
+    {
+      "id": 5,
+      "name": "baklazan",
+      "type": "kg",
+      "code": "102"
+    },
+
+    {
+      "id": 6,
+      "name": "banany",
+      "type": "kg",
+      "code": "30"
+    },
+
+    {
+      "id": 7,
+      "name": "BIO banany",
+      "type": "kg",
+      "code": "508"
+    },
+
+    {
+      "id": 8,
+      "name": "broskyne ploche",
+      "type": "kg",
+      "code": "825"
+    },
+
+    {
+      "id": 9,
+      "name": "broskyne volne",
+      "type": "kg",
+      "code": "633"
+    },
+
+    {
+      "id": 10,
+      "name": "broskyne volne (karton)",
+      "type": "kg",
+      "code": "687"
+    },
+
+    {
+      "id": 11,
+      "name": "cesnak cerstvy",
+      "type": "zvazok",
+      "code": "215"
+    },
+
+    {
+      "id": 12,
+      "name": "cesnak medvedi",
+      "type": "zvazok",
+      "code": "398"
+    },
+
+    {
+      "id": 13,
+      "name": "cesnak volny",
+      "type": "kg",
+      "code": "138"
+    },
+
+    {
+      "id": 14,
+      "name": "cibula biela volna",
+      "type": "kg",
+      "code": "852"
+    },
+
+    {
+      "id": 15,
+      "name": "cibula biela volna",
+      "type": "kg",
+      "code": "852"
+    },
+
+    {
+      "id": 16,
+      "name": "cibula volna",
+      "type": "kg",
+      "code": "150"
+    },
+
+    {
+      "id": 17,
+      "name": "cibula lahodkova",
+      "type": "zvazok",
+      "code": "84"
+    },
+
+    {
+      "id": 18,
+      "name": "cibula lahodkova cervena",
+      "type": "zvazok",
+      "code": "403"
+    },
+
+    {
+      "id": 19,
+      "name": "citronova trava",
+      "type": "ks",
+      "code": "403"
+    },
+
+    {
+      "id": 20,
+      "name": "citrony volne",
+      "type": "kg",
+      "code": "92"
+    },
+
+    {
+      "id": 21,
+      "name": "cuketa",
+      "type": "kg",
+      "code": "72"
+    },
+
+    {
+      "id": 22,
+      "name": "cuketa mini",
+      "type": "kg",
+      "code": "553"
+    },
+
+    {
+      "id": 23,
+      "name": "ceresne volne",
+      "type": "kg",
+      "code": "784"
+    },
+
+    {
+      "id": 24,
+      "name": "cernice",
+      "type": "kg",
+      "code": "559"
+    },
+
+    {
+      "id": 25,
+      "name": "cucoriedky",
+      "type": "kg",
+      "code": "430"
+    },
+
+    {
+      "id": 26,
+      "name": "dula",
+      "type": "kg",
+      "code": "680"
+    },
+
+    {
+      "id": 27,
+      "name": "dyna cervena",
+      "type": "kg",
+      "code": "99"
+    },
+
+    {
+      "id": 28,
+      "name": "dyna cervena 12kg a viac",
+      "type": "kg",
+      "code": "155"
+    },
+
+    {
+      "id": 29,
+      "name": "dyna cervena bezjad.",
+      "type": "kg",
+      "code": "96"
+    },
+
+    {
+      "id": 30,
+      "name": "dyna mini",
+      "type": "kg",
+      "code": "95"
+    },
+
+    {
+      "id": 31,
+      "name": "dyna mini BIO",
+      "type": "kg",
+      "code": "561"
+    },
+
+    {
+      "id": 32,
+      "name": "dyna zlta",
+      "type": "kg",
+      "code": "567"
+    },
+
+    {
+      "id": 33,
+      "name": "fazule struky",
+      "type": "kg",
+      "code": "432"
+    },
+
+    {
+      "id": 34,
+      "name": "fenikel",
+      "type": "kg",
+      "code": "125"
+    },
+
+    {
+      "id": 35,
+      "name": "figy cerstve",
+      "type": "kg",
+      "code": "13"
+    },
+
+    {
+      "id": 36,
+      "name": "figy cerstve",
+      "type": "ks",
+      "code": "13"
+    },
+
+    {
+      "id": 37,
+      "name": "gastany jedle",
+      "type": "kg",
+      "code": "385"
+    },
+
+    {
+      "id": 38,
+      "name": "granatove jablko",
+      "type": "ks",
+      "code": "27"
+    },
+
+    {
+      "id": 39,
+      "name": "grenadila",
+      "type": "ks",
+      "code": "592"
+    },
+
+    {
+      "id": 40,
+      "name": "grepy volne",
+      "type": "kg",
+      "code": "36"
+    },
+
+    {
+      "id": 41,
+      "name": "grepy zelene",
+      "type": "kg",
+      "code": "537"
+    },
+
+    {
+      "id": 42,
+      "name": "hrach",
+      "type": "kg",
+      "code": "213"
+    },
+
+    {
+      "id": 43,
+      "name": "hrozno biele bezjad. volne",
+      "type": "kg",
+      "code": "54"
+    },
+
+    {
+      "id": 44,
+      "name": "hrozno biele volne",
+      "type": "kg",
+      "code": "61"
+    },
+
+    {
+      "id": 45,
+      "name": "hrozno tmave (modre) volne",
+      "type": "kg",
+      "code": "776"
+    },
+
+    {
+      "id": 46,
+      "name": "hrozno modre bezjad. volne",
+      "type": "kg",
+      "code": "319"
+    },
+
+    {
+      "id": 47,
+      "name": "hrozno ruzove bezjad. volne",
+      "type": "kg",
+      "code": "134"
+    },
+
+    {
+      "id": 48,
+      "name": "hrozno ruzove bezjad. balene",
+      "type": "ks",
+      "code": "783"
+    },
+
+    {
+      "id": 49,
+      "name": "hrozno ruzove stolove volne",
+      "type": "kg",
+      "code": "64"
+    },
+
+    {
+      "id": 50,
+      "name": "hrusky abate fetel",
+      "type": "kg",
+      "code": "3012"
+    },
+
+    {
+      "id": 51,
+      "name": "hrusky carmen",
+      "type": "kg",
+      "code": "337"
+    },
+
+    {
+      "id": 52,
+      "name": "hrusky celina",
+      "type": "kg",
+      "code": "3376"
+    },
+
+    {
+      "id": 53,
+      "name": "hrusky cervene",
+      "type": "kg",
+      "code": "378"
+    },
+
+    {
+      "id": 54,
+      "name": "hrusky cervene cascade",
+      "type": "kg",
+      "code": "415"
+    },
+
+    {
+      "id": 55,
+      "name": "hrusky cervene red williams",
+      "type": "kg",
+      "code": "4410"
+    },
+
+    {
+      "id": 56,
+      "name": "hrusky klapsa",
+      "type": "kg",
+      "code": "690"
+    },
+
+    {
+      "id": 57,
+      "name": "hrusky konferencia",
+      "type": "kg",
+      "code": "317"
+    },
+
+    {
+      "id": 58,
+      "name": "hrusky konferencia SK",
+      "type": "kg",
+      "code": "612"
+    },
+
+    {
+      "id": 59,
+      "name": "hrusky limonera",
+      "type": "kg",
+      "code": "4414"
+    },
+
+    {
+      "id": 60,
+      "name": "hrusky nashi",
+      "type": "ks",
+      "code": "587"
+    }
+    
+]
