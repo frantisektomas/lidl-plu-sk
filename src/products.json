@@ -1467,6 +1467,433 @@
       "name": "zemiaky volne skore",
       "type": "kg",
       "code": "390"
+    },
+
+    {
+      "id": 208,
+      "name": "maslovy croissant",
+      "type": "ks",
+      "code": "10"
+    },
+
+    {
+      "id": 209,
+      "name": "medovomakova tasticka",
+      "type": "ks",
+      "code": "21"
+    },
+
+    {
+      "id": 210,
+      "name": "mufin cokoladovy",
+      "type": "ks",
+      "code": "512"
+    },
+
+    {
+      "id": 211,
+      "name": "tvarohova tasticka",
+      "type": "ks",
+      "code": "35"
+    },
+
+    {
+      "id": 212,
+      "name": "tycinka s olivami",
+      "type": "ks",
+      "code": "440"
+    },
+
+    {
+      "id": 213,
+      "name": "viaczrny chlieb",
+      "type": "ks",
+      "code": "49"
+    },
+
+    {
+      "id": 214,
+      "name": "mini zavin s tvarohom",
+      "type": "ks",
+      "code": "232"
+    },
+
+    {
+      "id": 215,
+      "name": "mini zavin s makovy",
+      "type": "ks",
+      "code": "233"
+    },
+
+    {
+      "id": 216,
+      "name": "psenicnorazny chlieb",
+      "type": "ks",
+      "code": "292"
+    },
+
+    {
+      "id": 217,
+      "name": "hamburgerove zelme",
+      "type": "ks",
+      "code": "678"
+    },
+
+    {
+      "id": 218,
+      "name": "moravsky kolac",
+      "type": "ks",
+      "code": "663"
+    },
+
+    {
+      "id": 219,
+      "name": "kebab",
+      "type": "ks",
+      "code": "619"
+    },
+
+    {
+      "id": 220,
+      "name": "donut ruffalo",
+      "type": "ks",
+      "code": "445"
+    },
+
+    {
+      "id": 221,
+      "name": "donut nutzilla",
+      "type": "ks",
+      "code": "257"
+    },
+
+    {
+      "id": 222,
+      "name": "slivkovy hreben",
+      "type": "ks",
+      "code": "24"
+    },
+
+    {
+      "id": 223,
+      "name": "syrova zemla s kuskami sunky",
+      "type": "ks",
+      "code": "15"
+    },
+
+    {
+      "id": 224,
+      "name": "siska cokoladovou naplnou",
+      "type": "ks",
+      "code": "23"
+    },
+
+    {
+      "id": 225,
+      "name": "siska s ovocnou naplnou",
+      "type": "ks",
+      "code": "22"
+    },
+
+    {
+      "id": 226,
+      "name": "mini zavin s pudingom",
+      "type": "ks",
+      "code": "234"
+    },
+
+    {
+      "id": 227,
+      "name": "triangel cheddar jalapenos",
+      "type": "ks",
+      "code": "261"
+    },
+
+    {
+      "id": 228,
+      "name": "ovocny kolac XXL",
+      "type": "ks",
+      "code": "246"
+    },
+
+    {
+      "id": 229,
+      "name": "ceralny zavitok",
+      "type": "ks",
+      "code": "744"
+    },
+
+    {
+      "id": 230,
+      "name": "dalamanka",
+      "type": "ks",
+      "code": "610"
+    },
+
+    {
+      "id": 231,
+      "name": "jablkova mriezka",
+      "type": "ks",
+      "code": "55"
+    },
+
+    {
+      "id": 232,
+      "name": "syrovy rozok",
+      "type": "ks",
+      "code": "488"
+    },
+
+    {
+      "id": 233,
+      "name": "donut jahodovy",
+      "type": "ks",
+      "code": "131"
+    },
+
+    {
+      "id": 234,
+      "name": "donut panna cota",
+      "type": "ks",
+      "code": "544"
+    },
+
+    {
+      "id": 235,
+      "name": "minisiska nugat",
+      "type": "ks",
+      "code": "713"
+    },
+
+    {
+      "id": 236,
+      "name": "oskvarkovy pagac",
+      "type": "ks",
+      "code": "291"
+    },
+
+    {
+      "id": 237,
+      "name": "anglicky rozok",
+      "type": "ks",
+      "code": "16"
+    },
+
+    {
+      "id": 238,
+      "name": "bageta francuzka",
+      "type": "ks",
+      "code": "7"
+    },
+
+    {
+      "id": 239,
+      "name": "bageta mala svetla",
+      "type": "ks",
+      "code": "4"
+    },
+
+    {
+      "id": 240,
+      "name": "cesnakova bageta",
+      "type": "ks",
+      "code": "31"
+    },
+
+    {
+      "id": 241,
+      "name": "cibulovy delikat",
+      "type": "ks",
+      "code": "549"
+    },
+
+    {
+      "id": 242,
+      "name": "cmarovy chlieb",
+      "type": "ks",
+      "code": "298"
+    },
+
+    {
+      "id": 243,
+      "name": "croissant nugat",
+      "type": "ks",
+      "code": "38"
+    },
+
+    {
+      "id": 244,
+      "name": "plundrovy rozok",
+      "type": "ks",
+      "code": "32"
+    },
+
+    {
+      "id": 245,
+      "name": "cokorolka",
+      "type": "ks",
+      "code": "17"
+    },
+
+    {
+      "id": 246,
+      "name": "tasticka sunka syr",
+      "type": "ks",
+      "code": "28"
+    },
+
+    {
+      "id": 247,
+      "name": "tasticka visna puding",
+      "type": "ks",
+      "code": "20"
+    },
+
+    {
+      "id": 248,
+      "name": "cokoladovy donut",
+      "type": "ks",
+      "code": "418"
+    },
+
+    {
+      "id": 249,
+      "name": "drevorubacou chlieb",
+      "type": "ks",
+      "code": "29"
+    },
+
+    {
+      "id": 250,
+      "name": "fittness zemla",
+      "type": "ks",
+      "code": "6"
+    },
+
+    {
+      "id": 251,
+      "name": "salamova pizza stangla",
+      "type": "ks",
+      "code": "214"
+    },
+
+    {
+      "id": 252,
+      "name": "rozok tmavy celozrny",
+      "type": "ks",
+      "code": "289"
+    },
+
+    {
+      "id": 253,
+      "name": "syrovy pagac",
+      "type": "ks",
+      "code": "856"
+    },
+
+    {
+      "id": 254,
+      "name": "hot dog",
+      "type": "ks",
+      "code": "12"
+    },
+
+    {
+      "id": 255,
+      "name": "pizzova tasnicka",
+      "type": "ks",
+      "code": "63"
+    },
+
+    {
+      "id": 256,
+      "name": "roztek plneny vanilkov",
+      "type": "ks",
+      "code": "453"
+    },
+
+    {
+      "id": 257,
+      "name": "javorova tasticka",
+      "type": "ks",
+      "code": "19"
+    },
+
+    {
+      "id": 258,
+      "name": "kaiserka cerealna",
+      "type": "ks",
+      "code": "2"
+    },
+
+    {
+      "id": 259,
+      "name": "kaiserka premium",
+      "type": "ks",
+      "code": "3"
+    },
+
+    {
+      "id": 260,
+      "name": "kaiserka specialna",
+      "type": "ks",
+      "code": "5"
+    },
+
+    {
+      "id": 261,
+      "name": "kornbageta",
+      "type": "ks",
+      "code": "14"
+    },
+
+    {
+      "id": 262,
+      "name": "kvaskovy bochnik",
+      "type": "ks",
+      "code": "547"
+    },
+
+    {
+      "id": 263,
+      "name": "kvaskovy koren",
+      "type": "ks",
+      "code": "548"
+    },
+
+    {
+      "id": 264,
+      "name": "psenicno razny chlieb",
+      "type": "ks",
+      "code": "42"
+    },
+
+    {
+      "id": 265,
+      "name": "psenicny bochnik",
+      "type": "ks",
+      "code": "59"
+    },
+
+    {
+      "id": 266,
+      "name": "makovka",
+      "type": "ks",
+      "code": "8"
+    },
+
+    {
+      "id": 267,
+      "name": "razne pecivo z bio muky",
+      "type": "ks",
+      "code": "37"
+    },
+
+    {
+      "id": 268,
+      "name": "chlieb pita",
+      "type": "ks",
+      "code": "268"
     }
     
 ]
